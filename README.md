@@ -5,3 +5,5 @@ Hello! Welcome to my first repository, this is my first ever project on GitHub, 
 4. You run the code (so obvious)
 5. You enter a user and a password so the system can check if something is True or False
 6. Enjoy the results!
+
+If I get 10 stars I will make this README look like a JavaScript framework README.
